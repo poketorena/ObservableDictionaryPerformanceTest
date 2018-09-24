@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObservableDictionaryPerformanceTest", "ObservableDictionaryPerformanceTest\ObservableDictionaryPerformanceTest.csproj", "{99524450-4EA8-4060-B6AA-C4DEE330063D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99524450-4EA8-4060-B6AA-C4DEE330063D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99524450-4EA8-4060-B6AA-C4DEE330063D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99524450-4EA8-4060-B6AA-C4DEE330063D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99524450-4EA8-4060-B6AA-C4DEE330063D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {200A9AF2-FF66-4B2C-B341-EF0EBAF18C9A}
+	EndGlobalSection
+EndGlobal
