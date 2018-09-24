@@ -1,0 +1,2 @@
+# ObservableDictionaryPerformanceTest
+ObservableCollectionとObservableDictionaryの速度を比較してみた
